@@ -8,7 +8,7 @@ namespace teningar
         {
             Console.WriteLine("teningarkast");
             var a = new Random();
-            var b = a.Next(1,87);
+            var b = a.Next(1,6);
             Console.WriteLine(b);
 
             
