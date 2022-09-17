@@ -1,0 +1,2 @@
+# teningar
+ þetta eru teningar
